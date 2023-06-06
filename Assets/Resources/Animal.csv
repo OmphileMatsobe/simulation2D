@@ -1,0 +1,4 @@
+Name,Weight,EnergyPerDay,FoodPerDay,Cleanliness,MealsPerDay,HoursOfSleep
+Chicken,2.6,500,0.2,5,2,8
+Rabbit,8,700,0.3,8,3,8
+Sheep,50,2000,0.9,4,3,4
